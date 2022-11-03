@@ -5,8 +5,8 @@ recipes:
     object: 'recipe:recipe'
 provenance:
   providers:
-    - name: 'Polar Geophysics Group at Lamont-Doherty Earth Observatory, Columbia University'
-      description: 'Data repository for the Polar Geophysics Group at Lamont-Doherty Earth Observatory, Columbia University'
+    - name: 'Xavier Fettweis'
+      description: 'Paper with description of the regional climate model MAR'
       roles:
         - licensor
       url: https://tc.copernicus.org/articles/11/1015/2017/
