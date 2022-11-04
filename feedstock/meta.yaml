@@ -1,12 +1,12 @@
 title: 'MAR Greenland'
-description: 'Greenland ice sheet reconstructions (2000-2021) from the regional climate model MAR'
+description: 'Greenland ice sheet reconstructions from the regional climate model MAR'
 recipes:
   - id: mar-greenland
     object: 'recipe:recipe'
 provenance:
   providers:
-    - name: 'Polar Geophysics Group at Lamont-Doherty Earth Observatory, Columbia University'
-      description: 'Data repository for the Polar Geophysics Group at Lamont-Doherty Earth Observatory, Columbia University'
+    - name: 'Xavier Fettweis'
+      description: 'Paper with description of the regional climate model MAR'
       roles:
         - licensor
       url: https://tc.copernicus.org/articles/11/1015/2017/
